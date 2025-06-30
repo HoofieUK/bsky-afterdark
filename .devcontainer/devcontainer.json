@@ -21,7 +21,8 @@
 		"vscode": {
 			"extensions": [
 				"esbenp.prettier-vscode",
-				"mongodb.mongodb-vscode"
+				"mongodb.mongodb-vscode",
+				"kodu-ai.claude-dev-experimental"
 			]
 		}
 	}
